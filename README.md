@@ -25,26 +25,16 @@ JavaScript – Functionality + localStorage
 
 📸 UI Preview
 
-(Add screenshot here if you want)
+<img width="852" height="565" alt="todo" src="https://github.com/user-attachments/assets/11ad787c-3bd1-48f7-8f9d-1fcf7c672079" />
+
 
 ![App Screenshot](images/preview.png)
 
 📂 Project Structure
-📦 To-Do-List
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    ├── icon.png
-    ├── checked.png
-    └── unchecked.png
+<img width="536" height="251" alt="image" src="https://github.com/user-attachments/assets/70e64201-8443-469e-ab31-90558e4369ee" />
+
 
 ▶️ How to Use
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
 
 Open index.html in any browser.
 
